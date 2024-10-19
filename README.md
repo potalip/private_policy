@@ -1,6 +1,6 @@
 # Privacy Policy for ChatGPT Conversation Exporter
 
-Last updated: [Current Date]
+Last updated: 18 october 2024
 
 ## 1. Introduction
 
@@ -47,4 +47,4 @@ We may update this Privacy Policy from time to time. We will notify users of any
 
 ## 9. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [Your Contact Email].
+If you have any questions about this Privacy Policy, please contact us.
